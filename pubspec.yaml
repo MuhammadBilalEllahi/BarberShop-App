@@ -1,0 +1,87 @@
+name: shazclippers
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.3 <4.0.0'
+
+dependencies:
+  carousel_slider: ^4.2.1
+  flutter:
+    sdk: flutter
+  flutter_animate: ^4.2.0+1
+  flutter_svg: ^2.0.7
+  intl: ^0.18.1
+  url_launcher: ^6.1.14
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: "^0.13.1"
+  icons_launcher: ^2.1.4
+  google_fonts: ^2.1.0 
+
+
+  # flutter_launcher_icons:
+  #   android: "launcher_icon"
+  #   ios: true
+  #   image_path: "assets/icon/icon.png"
+  #   min_sdk_android: 21 # android min sdk min:16, default 21
+  #   web:
+  #     generate: true
+  #     image_path: "path/to/image.png"
+  #     background_color: "#hexcode"
+  #     theme_color: "#hexcode"
+  #   windows:
+  #     generate: true
+  #     image_path: "path/to/image.png"
+  #     icon_size: 48 # min:48, max:256, default: 48
+  #   macos:
+  #     generate: true
+  #     image_path: "path/to/image.png"
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: RedRose
+      fonts:
+        - asset: assets/FontFamily/Red_Rose/static/RedRose-Bold.ttf
+    - family: RedRoseLight
+      fonts:
+        - asset: assets/FontFamily/Red_Rose/static/RedRose-Light.ttf
+
+  assets:
+  -  assets/
+  -  assets/images/drawerImage.png
+  -  assets/images/backgroundImage.jpeg
+  -  assets/images/whatsappLogo.png
+  -  assets/images/kindaLinearGradient.png
+  -  assets/displayimages/1.jpeg
+  -  assets/displayimages/2.jpeg
+  -  assets/displayimages/3.jpeg
+  -  assets/displayimages/4.jpeg
+  -  assets/displayimages/5.jpeg
+  -  assets/displayimages/6.jpeg
+  -  assets/displayimages/7.jpeg
+  -  assets/displayimages/8.jpeg
+  -  assets/menu/headerMenu.png
+  -  assets/menu/backgroundMenu.jpeg
+  -  assets/ImageShades/shadeAbove.png
+  -  assets/ImageShades/shadeLower.png
+  -  assets/images/map.jpeg
+  -  assets/images/instagramLogo.png
+  -  assets/images/barberDisplay.png
+  -  assets/displayimages/
+  -  assets/menu/
+  -  assets/buttonImages/
+
+icons_launcher:
+  image_path: "assets/launcherIcon/ic_logo_border.png"
+  platforms:
+    android:
+      enable: true
+    ios:
+      enable: true
