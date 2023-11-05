@@ -1,7 +1,7 @@
 # barbershop-App
 
 A new Flutter project.
-![Simulator Screen Shot - iPhone 14 Pro - 2023-11-06 at 00 34 46](https://github.com/MuhammadBilalEllahi/barbershop-App/assets/67937279/3318afe9-5175-46f0-9eb2-f9d6958e685e | width=100) 
+![Simulator Screen Shot - iPhone 14 Pro - 2023-11-06 at 00 34 46](https://github.com/MuhammadBilalEllahi/barbershop-App/assets/67937279/3318afe9-5175-46f0-9eb2-f9d6958e685e =250x250) 
 ![Uploading Simulator Screen Shot - iPhone 14 Pro - 2023-11-06 at 00.35.10.png…]()
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-11-06 at 00 35 30](https://github.com/MuhammadBilalEllahi/barbershop-App/assets/67937279/7a57eec9-de99-4974-8813-36d37c67b06d)
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-11-06 at 00 35 39](https://github.com/MuhammadBilalEllahi/barbershop-App/assets/67937279/3f7bf517-d1d0-43df-80a9-ec5aff9aab78)
