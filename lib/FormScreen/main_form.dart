@@ -35,9 +35,9 @@ class MainFormState extends State<MainForm> {
                 ),
                 Row(
                   children: [
-                    const Flexible(
-                      child: TextField()
-                    ),
+                    // const Flexible(
+                    //   child: TextField()
+                    // ),
                     Flexible(
                       child: TextFormField(
                         keyboardType: TextInputType.name,

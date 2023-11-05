@@ -4,9 +4,9 @@ import 'package:shazclippers/Themes/darktheme.dart';
 
 
 final barberData = [
-      {"name": "Shaz", "designation": "Barber"},
-      {"name": "T", "designation": "Barber"},
-      {"name": "H", "designation": "Barber"},
+      {"name": "Shah", "designation": "Barber"},
+      {"name": "Tariq", "designation": "Barber"},
+      {"name": "Hammad", "designation": "Barber"},
       {"name": "Shah", "designation": "Barber"},
       {"name": "Malik", "designation": "Barber"},
     ];

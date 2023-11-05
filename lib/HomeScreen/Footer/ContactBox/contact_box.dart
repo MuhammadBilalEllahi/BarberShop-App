@@ -66,7 +66,7 @@ class ContactBox extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               const Text(
-                                "ShazClippers HairDresser, 49 Cavell St, London E1\n2BP, United Kingdom",
+                                "XYZ HairDresser, 123 St, Karachi 123\n123, Pakistan",
                                 style: TextStyle(
                                     fontSize: 13.0,
                                     fontFamily: "Raleway",
@@ -99,7 +99,7 @@ class ContactBox extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             const Text(
-                              "+107456388858",
+                              "+134567891234",
                               style: TextStyle(
                                   fontSize: 13.0,
                                   fontFamily: "Raleway",
