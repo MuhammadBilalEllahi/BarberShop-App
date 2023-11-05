@@ -1,6 +1,6 @@
-# barbershop-App
+# Barbershop App
 
-A new Flutter project.
+A Flutter project.
 
 
 <img src="https://github.com/MuhammadBilalEllahi/barbershop-App/assets/67937279/3318afe9-5175-46f0-9eb2-f9d6958e685e" width="200" height="400" />
