@@ -20,7 +20,7 @@ class _TestPickerWidgetState extends State<TestPickerWidget> {
     DateTime? newSelectedDate = await showDatePicker(
         context: context, 
         initialDate: _selectedDate ?? DateTime.now(),
-        firstDate: DateTime(2000),
+        firstDate: DateTime.now(),
         lastDate: DateTime(2040),
         builder: (BuildContext context, Widget? child) {
           return Theme(
@@ -36,8 +36,9 @@ class _TestPickerWidgetState extends State<TestPickerWidget> {
             child: child!,
           );
         });
-
-    if (newSelectedDate != null) {
+  
+    if (newSelectedDate != null )  {
+      debugPrint("${newSelectedDate.day}");
       _selectedDate = newSelectedDate;
       _dateController
         ..text = DateFormat.yMMMd().format(_selectedDate!)

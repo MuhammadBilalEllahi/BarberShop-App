@@ -43,7 +43,7 @@ class _FormScreenState extends State<FormScreen> {
       DateTime? newSelectedDate = await showDatePicker(
           context: context,
           initialDate: _selectedDate ?? DateTime.now(),
-          firstDate: DateTime(2000),
+          firstDate: DateTime.now(),
           lastDate: DateTime(2040),
           builder: (BuildContext context, Widget? child) {
             return Theme(
@@ -264,7 +264,7 @@ class _FormScreenState extends State<FormScreen> {
                                   autofocus: false,
 
                                   onTap: () {
-                                    selectDate(context);
+                                    selectDate(context); 
                                   },
                                   keyboardType: TextInputType.datetime,
                                   controller: _dateController,
