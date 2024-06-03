@@ -29,3 +29,4 @@ Created with fun MAYBE
 <img width="32%" src="/assets/github assets/next_page_book_appointment_calender.png"/>
 
 </div>
+<h3>This project is available to be used by anyone.</h3>
